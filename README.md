@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning python, Sql, Machine Learning Models and moree.
 - 💞️ I’m looking to collaborate on projects, interships or any interesting work.
-- 📫 How to reach me - ag.arpitghosh@gmail.com
+- 📫 How to reach me - arpitghosh.work@gmail.com
 - 😄 Pronouns: Arpit Ghosh
 - ⚡ Fun fact: Don't know a damn thing about anything.
 - 🌱 Volunteering: Isha Volunteer @Save Soil
