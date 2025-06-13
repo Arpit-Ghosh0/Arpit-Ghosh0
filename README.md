@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpit-Ghosh0
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning python, Sql, Machine Learning Models and moree.
+- 👀 I’m interested in Tech.
+- 🌱 I’m currently learning Full stack Web Development and DSA.
 - 💞️ I’m looking to collaborate on projects, interships or any interesting work.
 - 📫 How to reach me - arpitghosh.work@gmail.com
 - 😄 Pronouns: Arpit Ghosh
